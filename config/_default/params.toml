@@ -59,7 +59,7 @@ logo = ""
 # Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
 highlight = true
 highlight_languages = ["r"]  # Add support for highlighting additional languages
-# highlight_style = "github"  # For supported styles, see https://cdnjs.com/libraries/highlight.js/
+highlight_style = "github"  # For supported styles, see https://cdnjs.com/libraries/highlight.js/
 
 # Enable LaTeX math rendering? true/false
 #   If false, you can enable math on a per page basis as needed.
@@ -91,11 +91,11 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Manuel Broseta 45", city = "Oliva", region = "Valencia", postcode = "46780", country = "España", country_code = "ES"}
+address = {street = "Manuel Broseta 45", city = "Oliva", region = "Valencia", postcode = "46780", country = "Spain", country_code = "ES"}
 
 # Geographic coordinates  38.918722, -0.110705
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "38.918722", longitude = "-0.110705"}
+# coordinates = {latitude = "38.918722", longitude = "-0.110705"}
 
 # Directions for visitors to locate you.
 directions = ""
@@ -110,7 +110,9 @@ directions = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/JGilabertSoto"},
+  {icon = "twitter", icon_pack = "fab", name = "DM me", link = "https://twitter.com/JGilabertSoto"},
+  # {icon = "whatsapp", icon_pack = "fab", name = "", link = "https://web.whatsapp.com/send?text={title}%20{url}"},
+  {icon = "linkedin-in", icon_pack = "fab", name = "LinkedIn", link = "https://www.linkedin.com/in/joangilabert/"},
   # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
