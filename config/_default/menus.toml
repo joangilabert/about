@@ -1,0 +1,41 @@
+# Navigation Links 
+#   para enlazar un widget desde la pagina principal, indicar la ruta relativa de la pagina como URL prefijada por un hash `#` segida por el nombre del archivo
+#     del widget a enlazar en la carpeta  `content/home/`.
+#   El parametro  weight define el orden en el que apareceran los enlaces en el Menu.
+
+[[main]]
+  name = "Acerca de mi"
+  url = "#about"
+  weight = 30
+
+[[main]]
+  name = "Articulos"
+  url = "#posts"
+  weight = 20
+
+#[[main]]
+#  name = "Proyectos"
+#  url = "#projects"
+#  weight = 30
+
+#[[main]]
+#  name = "Publicaciones"
+#  url = "#featured"
+#  weight = 40
+
+# [[main]]
+#   name = "Courses"
+#   url = "courses/"
+#   weight = 50
+
+[[main]]
+  name = "Contacto"
+  url = "#contact"
+  weight = 60
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+[[main]]
+   name = "CV"
+   url = "files/cv.pdf"
+   weight = 100
