@@ -22,7 +22,7 @@ copyright = "`{year}` &copy; Joan E. Gilabert Soto "
 # Name of Academic theme folder in `themes/`.
 theme = "hugo-academic"
 
-publishDir ="cv"
+publishDir ="docs"
 
 # Get last modified date for content from Git?
 enableGitInfo = false
