@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Courses | Code in my mind</title>
-    <link>https://joangilabert.github.io/CV/courses/</link>
-      <atom:link href="https://joangilabert.github.io/CV/courses/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://joangilabert.github.io/about/courses/</link>
+      <atom:link href="https://joangilabert.github.io/about/courses/index.xml" rel="self" type="application/rss+xml" />
     <description>Courses</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>`2019` © Joan E. Gilabert Soto </copyright>
     <image>
-      <url>https://joangilabert.github.io/CV/img/icon-192.png</url>
+      <url>https://joangilabert.github.io/about/img/icon-192.png</url>
       <title>Courses</title>
-      <link>https://joangilabert.github.io/CV/courses/</link>
+      <link>https://joangilabert.github.io/about/courses/</link>
     </image>
     
   </channel>

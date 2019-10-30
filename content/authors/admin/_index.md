@@ -43,7 +43,8 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  #link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:joangilabertsoto@gmail.com
 
 - icon: twitter
   icon_pack: fab
@@ -59,12 +60,20 @@ social:
 - icon: gitlab
   icon_pack: fab
   link: https://gitlab.com/joangilabert
+
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/joangilabert/
+
+- icon: telegram
+  icon_pack: fab
+  link: https://telegram.me/JoanGilabert
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-- icon: cv
-  icon_pack: ai
-  link: files/cv.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -76,4 +85,14 @@ user_groups:
 - Visitors
 ---
 
-Joan Gilabert se dedica al desarrollo de software desde hace mas de 20 años, habiendo participado en diversos tipos de proyectos, tales como las aplicaciones de Gestión Empresarial (ERP) en empresas tales como Exact Dimoni Software (ahora Extact Dimoni), Sisteda, Aura Portal, Consoft, as como en el desarrollo de herramientas de transpilacion, (generación código) a travéss de la conversión de modelos, en empresas como CARE Technologies ahora denominada Integranova. Mas recientemente he participado como Arquitecto de Integración entre los diferentes entornos de ERP (Dynamics 365 NAV) CRM (Salesforce), y el sistema eCommerce propietario en La Tienda Home.
+Me dedico al desarrollo de software desde hace mas de 10 años, habiendo participado en diversos tipos de proyectos, desde aplicaciones de Gestión Empresarial, **ERP**, en empresas como [**DIMONI Software** (ahora Extact Dimoni)](https://www.exact.com/es/software/tecnologia/erp-pyme/), [**Sisteda**](https://www.sisteda.com/).
+
+O en el ambito de la automatizacion industrial en carpinterias metalicas, mediante la aplicación **PrefeSuite** de [**Preference**](https://www.preference.es)
+
+Pero tambien en el desarrollo de herramientas de ayuda a la construccion de software mediante la definicion de modelos, y en base al uso de patrones de software, en empresas I+D+I como **CARE Technologies** ahora denominada [**Integranova**](https://www.integranova.com). 
+
+Mas recientemente participe en el desarrollo de clientes POS que proporcionan una terminal de dispensación de "Receta Electrónica" para distintos "Colegios Farmaceuticos" en, [**Consoft SAU**](https://www2.consoft.es/)
+
+Por ultimo como "Arquitecto de Integración" entre los diferentes entornos o areas de procesamiento, ERP (Dynamics 365 NAV) CRM (Salesforce), y el sistema eCommerce propietario en [**La Tienda Home**](https://www.latiendahome.com/).
+
+

@@ -1,5 +1,6 @@
 +++
-# Contact widget.
+# Contact widget. 
+# Los datos que aparecen sobre la pagina de contactos estan en `config/_default/params.toml´
 widget = "contact"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = false  # Activate this widget? true/false
