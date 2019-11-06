@@ -30,7 +30,10 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
 
-Dentro de la gestión del cambio de la empresa, en cuanto TI se refiere, mi responsabilidad es la de crear los diferentes Servicios Web, responsables de integrar  las diferentes partes del Sistema de Información, **eCommerce propietario**, CRM (**Salesfoce**), ERP (**Dynamics Navision**), de modo desacoplado, y que se pudiera sustituir cualquiera de los módulos con el minino impacto posible. Tanto los Clientes como los Servidores de Servicios fueron creados con .NET Core 2.2 y lenguaje C#, la fuente de datos era  MySQL.
+Dentro de la gestión del cambio de la empresa, en cuanto TI se refiere, mi responsabilidad se centró, en crear un entorno de integración, a través de Servicios Web (REST, SOAP, etc...),que son responsables de integrar  las diferentes partes del Sistema de Información, tales como el  Frontal **eCommerce**, **CRM** (Salesforce), **ERP** (Dynamics Navision), de modo desacoplado, (mínimo acoplamiento y máxima cohesión)  y que se pudiera sustituir cualquiera de los módulos con el minino impacto posible.
+
+Tanto los Clientes como los Servidores de los Servicios WEB fueron creados con **.NET Core 2.2** y C#, así como el uso de repositorios de datos **MySQL**, **SQL Server** y **REDIS**.
+
 
   <!-- 
   Responsabilidades :
@@ -44,7 +47,7 @@ Dentro de la gestión del cambio de la empresa, en cuanto TI se refiere, mi resp
 # CONSOFT SAU
 #--------------------------------------
 [[experience]]
-  title = "Analisis y Desarrollo"
+  title = "Software Developer"
   company = "CONSOFT SAU"
   company_url = "https://www2.consoft.es/"
   location = "Denia (Alicante)"
@@ -52,7 +55,9 @@ Dentro de la gestión del cambio de la empresa, en cuanto TI se refiere, mi resp
   date_end = "2017-07-01"
   description = """
   
-  Desarrollo y mantenimiento de las recetas electrónicas, módulos desarrollados en C#, SQLServer, que comunican con los Servicios Web de prescripción y dispensación farmacéutica, con responsabilidad directa de la gestión del cambio de las zonas Madrid, Baleares, Asturias, e indirecta del resto de Comunidades Autónomas de dispensación electrónica 
+  Desarrollo y mantenimiento de los diferentes Terminales punto de venta (POS) de dispensación de receta electrónica, módulos desarrollados en C#, y SQLServer, los cuales comunican con los Servicios Web de prescripción y dispensación farmacéutica de los distintos Colegios Farmacéuticos.
+  
+  Responsabilidad directa de la implementación y mantenimiento de Madrid, Baleares, Asturias, e indirecta del resto de Comunidades Autónomas de dispensación electrónica.
   
   <!-- 
   Responsabilidades :
@@ -74,9 +79,9 @@ Dentro de la gestión del cambio de la empresa, en cuanto TI se refiere, mi resp
   description = """
 
   Desarrollo extensiones sobre la Aplicación AuraPortal (BPMS) en el dominio de los Seguros. En la que se crearon formularios web (ASP.NET/C#), servicios Web (WCF), así como extensión de la base de datos SQL Server y creación de Scripts TSQL necesarios. Utilizando una arquitectura de división en capas (Interface de usuario, Servicios Web como modelo y lógica de negocio y base de datos como persistencia de datos).
-
+  
   Desarrollo pequeña App Android (WebView + JavaScript) para acceder a través de servicios Web a ciertas características de la aplicación AuraPortal.
-
+  
   Desarrollo pequeña App Android, de escaneo de DNI y comunicación con servicio Web de envío y recepción de datos de la identificación.
 
   <!-- 
@@ -87,22 +92,23 @@ Dentro de la gestión del cambio de la empresa, en cuanto TI se refiere, mi resp
   -->
 
   """
-
   
   [[experience]]
   title = "Research & Software Developer"
-  company = "CARE Technologies -COMPUTER AIDED REQUERIMENTS ENGINEERING TECHNOLOGIES S.A.-"
+  company = "CARE Technologies -COMPUTER AIDED REQUERIMENTS ENGINEERING TECHNOLOGIES S.A.- (actualmente se denomina IntegranovaMES)"
   company_url = "http://www.care-t.com/"
   location = "Denia (Alicante)"
   date_start = "2005-02-01"
   date_end = "2012-05-01"
   description = """
 
-  Desarrollo generador código Cliente Desktop (Windows Forms) C# desde el 2005-2009.
+  Análisis y desarrollo de compiladores que transformaban los modelos conceptuales definidos en el código completo de aplicaciones [(aquí explicación sistema)](https://www.youtube.com/watch?v=Y5Zg6TVgbjw).
+  
+  Participe en el desarrollo transpilador de código Cliente Desktop C# desde el **2005-2009**, y en el  del Cliente JSFv.1 (Java), desde el **20010-2012**.
 
-  Desarrollo generador código Cliente JSFv.1 (Java), desde el 2009-2012.
+  Estos generadores de código se generan la interface de usuario en base a [patrones de interacción](http://pjmolina.com/en/research/thesis.php) y de diseño tipo MVC.
 
-  Care es ahora [Integranova](http://www.integranova.com/)
+  CARE es ahora [IntegranovaMES](http://www.integranova.com/es/integranova-m-e-s/)
 
 <!-- 
   Responsabilidades :
@@ -140,14 +146,14 @@ Dentro de la gestión del cambio de la empresa, en cuanto TI se refiere, mi resp
   [[experience]]
   title = "Software Developer"
   company = "Preference"
-  company_url = "https://www.preference.es/"
+  company_url = "http://www.prefsuite.com/"
   location = "Valencia (Valencia)"
   date_start = "2000-07-02"
   date_end = "2001-06-01"
   description = """
 
-  Análisis y Programación sistemas de mecanización carpinterías, en C++ y VBA.
-
+  Análisis y desarrollo de sistemas de automatización de la mecanización de carpinterías metálicas, en C++ y VBA, mediante aplicación [PrefSuite](http://www.prefsuite.com/).
+  
   <!-- 
   Responsabilidades :
   * Analysing
@@ -188,7 +194,8 @@ Dentro de la gestión del cambio de la empresa, en cuanto TI se refiere, mi resp
   date_end = "1994-07-01"
   description = """
   
-  Análisis y Desarrollo servicios telemáticos a través de [**Ibertext (X.25)**](https://es.wikipedia.org/wiki/Videotex) en lenguaje C sobre Unix (SCO).
+  Desarrollo servicios telemáticos a través de la red [**Ibertext (X.25)**](https://www.xataka.com/historia-tecnologica/videotex-asi-era-el-internet-antes-de-internet-que-trato-de-revolucionar-las-telecomunicaciones) en lenguaje C sobre Unix SCO.
+  Publicidad de [(Telefonica Ibertext)](https://www.youtube.com/watch?time_continue=30&v=PFekEB9az_k)
 
 <!-- 
   Responsabilidades :
