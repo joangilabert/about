@@ -30,7 +30,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
 
-Dentro de la gestión del cambio de la empresa, en cuanto TI se refiere, mi responsabilidad es la de crear los diferentes Servicios Web, responsables de integrar  las diferentes partes del Sistema de Información, **eCommerce propietario**, CRM (**Salesfoce**), ERP (**Dynamics Navision**), de modo desacoplado, y que se pudiera sustituir cualquiera de los módulos con el minino impacto posible. Tanto los Clientes como los Servidores de Servicios fueron creados con .NET Core 2.0 y lenguaje C#, la fuente de datos era  MySQL.
+Dentro de la gestión del cambio de la empresa, en cuanto TI se refiere, mi responsabilidad es la de crear los diferentes Servicios Web, responsables de integrar  las diferentes partes del Sistema de Información, **eCommerce propietario**, CRM (**Salesfoce**), ERP (**Dynamics Navision**), de modo desacoplado, y que se pudiera sustituir cualquiera de los módulos con el minino impacto posible. Tanto los Clientes como los Servidores de Servicios fueron creados con .NET Core 2.2 y lenguaje C#, la fuente de datos era  MySQL.
 
   <!-- 
   Responsabilidades :

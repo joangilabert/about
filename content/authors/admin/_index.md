@@ -93,6 +93,6 @@ Pero tambien en el desarrollo de herramientas de ayuda a la construccion de soft
 
 Mas recientemente participe en el desarrollo de clientes POS que proporcionan una terminal de dispensación de "Receta Electrónica" para distintos "Colegios Farmaceuticos" en, [**Consoft SAU**](https://www2.consoft.es/)
 
-Por ultimo como "Arquitecto de Integración" entre los diferentes entornos o areas de procesamiento, ERP (Dynamics 365 NAV) CRM (Salesforce), y el sistema eCommerce propietario en [**La Tienda Home**](https://www.latiendahome.com/).
+Por ultimo como "**Arquitecto de Integración**" entre los diferentes entornos o areas de procesamiento, ERP (Dynamics 365 NAV) CRM (Salesforce), y el sistema eCommerce propietario en [**La Tienda Home**](https://www.latiendahome.com/).
 
 
