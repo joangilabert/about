@@ -85,11 +85,12 @@ user_groups:
 - Visitors
 ---
 
-Me dedico al desarrollo de software desde hace mas de 10 años, he participado en diversos tipos de proyectos, desde la creacion de aplicaciones de Gestión Empresarial, **ERP**, en empresas como, [**Sisteda**](https://www.sisteda.com/), y [**Exact DIMONI Software**](https://www.exact.com/es/software/tecnologia/erp-pyme/),  asi como en el desarrollo de clientes POS que proporcionan una terminal de dispensación de "Receta Electrónica" para distintos "Colegios Farmacéuticos" integrados en el ERP , [**Consoft SAU**](https://www2.consoft.es/), pero tambien en el ambito de la automatizacion industrial de carpinterias metalicas, mediante la aplicación **PrefeSuite** de [**Preference**](https://www.preference.es).
+Me dedico al desarrollo de software desde hace mas de 10 años, he participado en diversos tipos de proyectos, desde la creacion de aplicaciones de Gestión Empresarial, **ERP**, en empresas como, [**Sisteda**](https://www.sisteda.com/), y [**Exact DIMONI Software**](https://www.exact.com/es/software/tecnologia/erp-pyme/), o en el desarrollo de clientes POS que proporcionan una terminal de dispensación de "Receta Electrónica" para distintos "Colegios Farmacéuticos" y su integración en el ERP , [**Consoft SAU**](https://www2.consoft.es/). 
+En otro de los proyectos que he participado fue en el ambito de la automatizacion industrial de carpinterias metalicas, mediante la aplicación **PrefeSuite** de [**Preference**](https://www.preference.es).
 
-Tambien en el desarrollo de herramientas de ayuda a la construccion de software mediante la definicion de modelos conceptuales, y generación de código en base al uso de patrones de software, en empresas I+D+I como **CARE Technologies** ahora denominada [**Integranova**](https://www.integranova.com). 
+Uno de los mas interesentas que he participado, fue en el desarrollo de herramientas de ayuda a la construccion de software mediante la definicion de modelos conceptuales, y generación de código en base al uso de patrones de software y de interacción, en **CARE Technologies** ahora denominada [**Integranova**](https://www.integranova.com). 
 
-Más recientemente participado en un proyecto de integración como "**Arquitecto de Integración**" entre los diferentes entornos o areas de procesamiento, ERP (Dynamics 365 NAV) CRM (Salesforce), y el sistema eCommerce propietario en [**La Tienda Home**](https://www.latiendahome.com/).
+Más recientemente participado en un proyecto de integración como "**Arquitecto de Integración**" entre diferentes entornos o areas de procesamiento de un eCommerce, ERP (Dynamics 365 NAV) CRM (Salesforce), de  [**La Tienda Home**](https://www.latiendahome.com/).
 
 
 
