@@ -85,14 +85,11 @@ user_groups:
 - Visitors
 ---
 
-Me dedico al desarrollo de software desde hace mas de 10 años, habiendo participado en diversos tipos de proyectos, desde aplicaciones de Gestión Empresarial, **ERP**, en empresas como [**DIMONI Software** (ahora Extact Dimoni)](https://www.exact.com/es/software/tecnologia/erp-pyme/), [**Sisteda**](https://www.sisteda.com/).
+Me dedico al desarrollo de software desde hace mas de 10 años, he participado en diversos tipos de proyectos, desde la creacion de aplicaciones de Gestión Empresarial, **ERP**, en empresas como, [**Sisteda**](https://www.sisteda.com/), y [**Exact DIMONI Software**](https://www.exact.com/es/software/tecnologia/erp-pyme/),  asi como en el desarrollo de clientes POS que proporcionan una terminal de dispensación de "Receta Electrónica" para distintos "Colegios Farmacéuticos" integrados en el ERP , [**Consoft SAU**](https://www2.consoft.es/), pero tambien en el ambito de la automatizacion industrial de carpinterias metalicas, mediante la aplicación **PrefeSuite** de [**Preference**](https://www.preference.es).
 
-O en el ambito de la automatizacion industrial en carpinterias metalicas, mediante la aplicación **PrefeSuite** de [**Preference**](https://www.preference.es)
+Tambien en el desarrollo de herramientas de ayuda a la construccion de software mediante la definicion de modelos conceptuales, y generación de código en base al uso de patrones de software, en empresas I+D+I como **CARE Technologies** ahora denominada [**Integranova**](https://www.integranova.com). 
 
-Pero tambien en el desarrollo de herramientas de ayuda a la construccion de software mediante la definicion de modelos, y en base al uso de patrones de software, en empresas I+D+I como **CARE Technologies** ahora denominada [**Integranova**](https://www.integranova.com). 
+Más recientemente participado en un proyecto de integración como "**Arquitecto de Integración**" entre los diferentes entornos o areas de procesamiento, ERP (Dynamics 365 NAV) CRM (Salesforce), y el sistema eCommerce propietario en [**La Tienda Home**](https://www.latiendahome.com/).
 
-Mas recientemente participe en el desarrollo de clientes POS que proporcionan una terminal de dispensación de "Receta Electrónica" para distintos "Colegios Farmaceuticos" en, [**Consoft SAU**](https://www2.consoft.es/)
-
-Por ultimo como "**Arquitecto de Integración**" entre los diferentes entornos o areas de procesamiento, ERP (Dynamics 365 NAV) CRM (Salesforce), y el sistema eCommerce propietario en [**La Tienda Home**](https://www.latiendahome.com/).
 
 
