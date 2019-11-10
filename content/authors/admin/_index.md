@@ -1,4 +1,7 @@
 ---
+# Metas
+google-site-verification: iihcBC9VRI1-6bR3v7dvmXwo1qVj_u7OVrlmB52RGXs
+
 # Display name
 name: Joan Gilabert
 
