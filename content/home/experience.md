@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   company_url = "https://www.latiendahome.com/"
   location = "Gandia (Valencia)"
   date_start = "2017-07-01"
-  date_end = ""
+  date_end = "2019-11-06"
   description = """
 
 Dentro de la gestión del cambio de la empresa, en cuanto TI se refiere, mi responsabilidad se centró, en crear un entorno de integración, a través de Servicios Web (REST, SOAP, etc...),que son responsables de integrar  las diferentes partes del Sistema de Información, tales como el  Frontal **eCommerce**, **CRM** (Salesforce), **ERP** (Dynamics Navision), de modo desacoplado, (mínimo acoplamiento y máxima cohesión)  y que se pudiera sustituir cualquiera de los módulos con el minino impacto posible.
