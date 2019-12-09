@@ -32,7 +32,7 @@ date_format = "Jan 2006"
 
 Dentro de la gestión del cambio de la empresa, en cuanto TI se refiere, mi responsabilidad se centró, en crear un entorno de integración, a través de Servicios Web (REST, SOAP, etc...),que son responsables de integrar  las diferentes partes del Sistema de Información, tales como el  Frontal **eCommerce**, **CRM** (Salesforce), **ERP** (Dynamics Navision), de modo desacoplado, (mínimo acoplamiento y máxima cohesión)  y que se pudiera sustituir cualquiera de los módulos con el minino impacto posible.
 
-Tanto los Clientes como los Servidores de los Servicios WEB fueron creados con **.NET Core 2.2** y C#, así como el uso de repositorios de datos **MySQL**, **SQL Server** y **REDIS**.
+Tanto los Clientes como los Servidores de los Servicios WEB fueron creados con **.NET Core**, C#, [NancyFx](http://nancyfx.org/), ... así como el uso de repositorios de datos **MySQL**, **SQL Server** y **REDIS**.
 
 
   <!-- 
