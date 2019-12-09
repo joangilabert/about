@@ -104,7 +104,7 @@ Tanto los Clientes como los Servidores de los Servicios WEB fueron creados con *
 
   Análisis y desarrollo de compiladores que transformaban los modelos conceptuales definidos en el código completo de aplicaciones [(aquí explicación sistema)](https://www.youtube.com/watch?v=Y5Zg6TVgbjw).
   
-  Participe en el desarrollo transpilador de código Cliente Desktop C# desde el **2005-2009**, y en el  del Cliente JSFv.1 (Java), desde el **20010-2012**.
+  Participe en el desarrollo transpilador de código Cliente Desktop C# desde el **2005-2009**, y en el  del Cliente JSFv.1 (Java), desde el **2010-2012**.
 
   Estos generadores de código se generan la interface de usuario en base a [patrones de interacción](http://pjmolina.com/en/research/thesis.php) y de diseño tipo MVC.
 
